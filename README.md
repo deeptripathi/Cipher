@@ -1,7 +1,7 @@
 # Cipher
-Cipher can help to encrypt and decrypt plan text.
+Cipher can help to encrypt and decrypt plain text.
 
-Cipher jar can be used in the projects to encrypt/decrypt plan text passwords in configuration file.
+Cipher jar can be used in the projects to encrypt/decrypt plain text passwords in configuration file.
 The encrypted text will be hard to decrypt without sharing the JAR.
 The JAR can be plugged in project pipelines to prevent the distribution of plain text. 
 
